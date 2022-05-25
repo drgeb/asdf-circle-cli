@@ -1,13 +1,13 @@
-# asdf-circle-cli
+# asdf-circleci-cli
 
-[![Build Status](https://travis-ci.org/asdf-community/asdf-circle-cli.svg?branch=master)](https://travis-ci.org/asdf-community/asdf-circle-cli)
+[![Build Status](https://travis-ci.org/asdf-community/asdf-circleci-cli.svg?branch=master)](https://travis-ci.org/asdf-community/asdf-circleci-cli)
 
-circle-cli plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
+circleci-cli plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 
 ## Install
 
 ```
-asdf plugin-add circle-cli https://github.com/drgeb/asdf-circle-cli.git
+asdf plugin-add circleci-cli https://github.com/drgeb/asdf-circleci-cli.git
 ```
 
 ## Use
